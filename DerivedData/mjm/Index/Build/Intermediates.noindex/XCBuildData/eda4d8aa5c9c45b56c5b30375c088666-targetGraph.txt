@@ -1,0 +1,133 @@
+Target dependency graph (40 targets)
+RxSwift in RxSwift, no dependencies
+RxCocoaRuntime in RxSwift, depends on:
+RxSwift in RxSwift (explicit)
+RxRelay in RxSwift, depends on:
+RxSwift in RxSwift (explicit)
+RxCocoa in RxSwift, depends on:
+RxSwift in RxSwift (explicit)
+RxRelay in RxSwift (explicit)
+RxCocoaRuntime in RxSwift (explicit)
+RxCocoa in RxSwift, depends on:
+RxCocoa in RxSwift (explicit)
+RxSwift in RxSwift (explicit)
+RxRelay in RxSwift (explicit)
+RxCocoaRuntime in RxSwift (explicit)
+RxSwift in RxSwift, depends on:
+RxSwift in RxSwift (explicit)
+Rx_2_Sources in Rx_2_Sources, depends on:
+RxCocoaRuntime in RxSwift (explicit)
+RxCocoa in RxSwift (explicit)
+RxRelay in RxSwift (explicit)
+RxSwift in RxSwift (explicit)
+RxCocoa in RxSwift (explicit)
+RxSwift in RxSwift (explicit)
+RxSwift in RxSwift, no dependencies
+RxCocoaRuntime in RxSwift, depends on:
+RxSwift in RxSwift (explicit)
+RxRelay in RxSwift, depends on:
+RxSwift in RxSwift (explicit)
+RxCocoa in RxSwift, depends on:
+RxSwift in RxSwift (explicit)
+RxRelay in RxSwift (explicit)
+RxCocoaRuntime in RxSwift (explicit)
+RxSwift in RxSwift, depends on:
+RxSwift in RxSwift (explicit)
+RxRelay in RxSwift, depends on:
+RxRelay in RxSwift (explicit)
+RxSwift in RxSwift (explicit)
+RxCocoa in RxSwift, depends on:
+RxCocoa in RxSwift (explicit)
+RxSwift in RxSwift (explicit)
+RxRelay in RxSwift (explicit)
+RxCocoaRuntime in RxSwift (explicit)
+mjm in mjm, depends on:
+RxSwift in RxSwift (explicit)
+RxRelay in RxSwift (explicit)
+RxCocoa in RxSwift (explicit)
+Rx_2_Sources in Rx_2_Sources, depends on:
+RxCocoaRuntime in RxSwift (explicit)
+RxCocoa in RxSwift (explicit)
+RxRelay in RxSwift (explicit)
+RxSwift in RxSwift (explicit)
+mjm in mjm (explicit)
+RxCocoa in RxSwift (explicit)
+RxSwift in RxSwift (explicit)
+RxSwift in RxSwift, no dependencies
+RxCocoaRuntime in RxSwift, depends on:
+RxSwift in RxSwift (explicit)
+RxRelay in RxSwift, depends on:
+RxSwift in RxSwift (explicit)
+RxCocoa in RxSwift, depends on:
+RxSwift in RxSwift (explicit)
+RxRelay in RxSwift (explicit)
+RxCocoaRuntime in RxSwift (explicit)
+RxCocoa in RxSwift, depends on:
+RxCocoa in RxSwift (explicit)
+RxSwift in RxSwift (explicit)
+RxRelay in RxSwift (explicit)
+RxCocoaRuntime in RxSwift (explicit)
+RxSwift in RxSwift, depends on:
+RxSwift in RxSwift (explicit)
+Rx_2_Sources in Rx_2_Sources, depends on:
+RxCocoaRuntime in RxSwift (explicit)
+RxCocoa in RxSwift (explicit)
+RxRelay in RxSwift (explicit)
+RxSwift in RxSwift (explicit)
+RxCocoa in RxSwift (explicit)
+RxSwift in RxSwift (explicit)
+Rx_Sources in Rx_Sources, depends on:
+RxCocoaRuntime in RxSwift (explicit)
+RxCocoa in RxSwift (explicit)
+RxRelay in RxSwift (explicit)
+RxSwift in RxSwift (explicit)
+RxCocoa in RxSwift (explicit)
+RxSwift in RxSwift (explicit)
+Rx_Sources in Rx_Sources, depends on:
+RxCocoaRuntime in RxSwift (explicit)
+RxCocoa in RxSwift (explicit)
+RxRelay in RxSwift (explicit)
+RxSwift in RxSwift (explicit)
+mjm in mjm (explicit)
+RxCocoa in RxSwift (explicit)
+RxSwift in RxSwift (explicit)
+Rx_Sources in Rx_Sources, depends on:
+RxCocoaRuntime in RxSwift (explicit)
+RxCocoa in RxSwift (explicit)
+RxRelay in RxSwift (explicit)
+RxSwift in RxSwift (explicit)
+RxCocoa in RxSwift (explicit)
+RxSwift in RxSwift (explicit)
+RxSwift in RxSwift, no dependencies
+RxSwift in RxSwift, depends on:
+RxSwift in RxSwift (explicit)
+RxRelay in RxSwift, depends on:
+RxSwift in RxSwift (explicit)
+RxRelay in RxSwift, depends on:
+RxRelay in RxSwift (explicit)
+RxSwift in RxSwift (explicit)
+RxCocoaRuntime in RxSwift, depends on:
+RxSwift in RxSwift (explicit)
+RxCocoa in RxSwift, depends on:
+RxSwift in RxSwift (explicit)
+RxRelay in RxSwift (explicit)
+RxCocoaRuntime in RxSwift (explicit)
+RxCocoa in RxSwift, depends on:
+RxCocoa in RxSwift (explicit)
+RxSwift in RxSwift (explicit)
+RxRelay in RxSwift (explicit)
+RxCocoaRuntime in RxSwift (explicit)
+mjm in mjm, depends on:
+RxSwift in RxSwift (explicit)
+RxRelay in RxSwift (explicit)
+RxCocoa in RxSwift (explicit)
+mjmTests in mjm, depends on:
+mjm in mjm (explicit)
+mjmTests in mjm, depends on:
+mjm in mjm (explicit)
+mjmTests in mjm, no dependencies
+mjmUITests in mjm, depends on:
+mjm in mjm (explicit)
+mjmUITests in mjm, depends on:
+mjm in mjm (explicit)
+mjmUITests in mjm, no dependencies

@@ -1,0 +1,131 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "d2db171333b6dc9c15b693838b4594bf9469f49264a63f253e86059b67451e1c"
+build_start_time: [1674516496, 45737981]
+build_end_time: [1674516501, 546256065]
+inputs:
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/BehaviorRelay+Driver.swift": [1671107710, 545014619]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/ControlEvent+Driver.swift": [1671107710, 545221328]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/ControlEvent+Signal.swift": [1671107710, 547636508]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/ControlEvent.swift": [1671107710, 544426679]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/ControlProperty+Driver.swift": [1671107710, 545506238]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/ControlProperty.swift": [1671107710, 544682264]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/ControlTarget.swift": [1671107710, 538238763]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/DelegateProxy.swift": [1671107710, 538451671]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/DelegateProxyType.swift": [1671107710, 538717269]
+  ? "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/DispatchQueue+Extensions.swift"
+  : [1671107710, 522377490]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/Driver+Subscription.swift": [1671107710, 545727491]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/Driver.swift": [1671107710, 545895099]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/Infallible+Bind.swift": [1671107710, 538938522]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/ItemEvents.swift": [1671107710, 549869537]
+  ? "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/KVORepresentable+CoreGraphics.swift"
+  : [1671107710, 540224790]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/KVORepresentable+Swift.swift": [1671107710, 540376186]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/KVORepresentable.swift": [1671107710, 540627479]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/NSButton+Rx.swift": [1671107710, 562062025]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/NSControl+Rx.swift": [1671107710, 562313079]
+  ? "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/NSObject+Rx+KVORepresentable.swift"
+  : [1671107710, 540775775]
+  ? "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/NSObject+Rx+RawRepresentable.swift"
+  : [1671107710, 540919780]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/NSObject+Rx.swift": [1671107710, 541158676]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/NSSlider+Rx.swift": [1671107710, 562590122]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/NSTextField+Rx.swift": [1671107710, 562869548]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/NSTextStorage+Rx.swift": [1671107710, 550344944]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/NSTextView+Rx.swift": [1671107710, 563042163]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/NSView+Rx.swift": [1671107710, 563311338]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/NotificationCenter+Rx.swift": [1671107710, 541347503]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/Observable+Bind.swift": [1671107710, 539223670]
+  ? "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/ObservableConvertibleType+Driver.swift"
+  : [1671107710, 546038389]
+  ? "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/ObservableConvertibleType+SharedSequence.swift"
+  : [1671107710, 546243667]
+  ? "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/ObservableConvertibleType+Signal.swift"
+  : [1671107710, 547805309]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/PublishRelay+Signal.swift": [1671107710, 548035383]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/RxCocoa.swift": [1671107710, 543978691]
+  ? "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/RxCocoaObjCRuntimeError+Extensions.swift"
+  : [1671107710, 539492130]
+  ? "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/RxCollectionViewDataSourcePrefetchingProxy.swift"
+  : [1671107710, 551682472]
+  ? "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/RxCollectionViewDataSourceProxy.swift"
+  : [1671107710, 551925182]
+  ? "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/RxCollectionViewDataSourceType.swift"
+  : [1671107710, 550817728]
+  ? "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/RxCollectionViewDelegateProxy.swift"
+  : [1671107710, 552215814]
+  ? "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/RxCollectionViewReactiveArrayDataSource.swift"
+  : [1671107710, 549039840]
+  ? "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/RxNavigationControllerDelegateProxy.swift"
+  : [1671107710, 552435159]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/RxPickerViewAdapter.swift": [1671107710, 549316883]
+  ? "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/RxPickerViewDataSourceProxy.swift"
+  : [1671107710, 552626848]
+  ? "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/RxPickerViewDataSourceType.swift"
+  : [1671107710, 551067113]
+  ? "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/RxPickerViewDelegateProxy.swift"
+  : [1671107710, 552883863]
+  ? "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/RxScrollViewDelegateProxy.swift"
+  : [1671107710, 553093433]
+  ? "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/RxSearchBarDelegateProxy.swift"
+  : [1671107710, 553294181]
+  ? "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/RxSearchControllerDelegateProxy.swift"
+  : [1671107710, 553509235]
+  ? "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/RxTabBarControllerDelegateProxy.swift"
+  : [1671107710, 553712844]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/RxTabBarDelegateProxy.swift": [1671107710, 554043769]
+  ? "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/RxTableViewDataSourcePrefetchingProxy.swift"
+  : [1671107710, 554241657]
+  ? "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/RxTableViewDataSourceProxy.swift"
+  : [1671107710, 554441690]
+  ? "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/RxTableViewDataSourceType.swift"
+  : [1671107710, 551333904]
+  ? "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/RxTableViewDelegateProxy.swift"
+  : [1671107710, 554633617]
+  ? "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/RxTableViewReactiveArrayDataSource.swift"
+  : [1671107710, 549555301]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/RxTarget.swift": [1671107710, 539658069]
+  ? "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/RxTextStorageDelegateProxy.swift"
+  : [1671107710, 554865360]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/RxTextViewDelegateProxy.swift": [1671107710, 555066585]
+  ? "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/RxWKNavigationDelegateProxy.swift"
+  : [1671107710, 555335998]
+  ? "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/SchedulerType+SharedSequence.swift"
+  : [1671107710, 546404838]
+  ? "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/SectionedViewDataSourceType.swift"
+  : [1671107710, 539810180]
+  ? "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/SharedSequence+Operators+arity.swift"
+  : [1671107710, 546678066]
+  ? "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/SharedSequence+Operators.swift"
+  : [1671107710, 547162055]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/SharedSequence.swift": [1671107710, 547385215]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/Signal+Subscription.swift": [1671107710, 548335075]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/Signal.swift": [1671107710, 548573017]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/TextInput.swift": [1671107710, 540009737]
+  ? "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/UIActivityIndicatorView+Rx.swift"
+  : [1671107710, 555572986]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/UIApplication+Rx.swift": [1671107710, 555801391]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/UIBarButtonItem+Rx.swift": [1671107710, 556114673]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/UIButton+Rx.swift": [1671107710, 556354045]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/UICollectionView+Rx.swift": [1671107710, 556758403]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/UIControl+Rx.swift": [1671107710, 557113885]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/UIDatePicker+Rx.swift": [1671107710, 557334899]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/UIGestureRecognizer+Rx.swift": [1671107710, 557650566]
+  ? "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/UINavigationController+Rx.swift"
+  : [1671107710, 558035135]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/UIPickerView+Rx.swift": [1671107710, 558342218]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/UIRefreshControl+Rx.swift": [1671107710, 558513641]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/UIScrollView+Rx.swift": [1671107710, 558712005]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/UISearchBar+Rx.swift": [1671107710, 558928966]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/UISearchController+Rx.swift": [1671107710, 559211254]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/UISegmentedControl+Rx.swift": [1671107710, 559480428]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/UISlider+Rx.swift": [1671107710, 559629917]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/UIStepper+Rx.swift": [1671107710, 559797763]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/UISwitch+Rx.swift": [1671107710, 560078620]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/UITabBar+Rx.swift": [1671107710, 560597896]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/UITabBarController+Rx.swift": [1671107710, 560802936]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/UITableView+Rx.swift": [1671107710, 561016798]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/UITextField+Rx.swift": [1671107710, 561317682]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/UITextView+Rx.swift": [1671107710, 561528205]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/URLSession+Rx.swift": [1671107710, 541568756]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoa/WKWebView+Rx.swift": [1671107710, 561692714]

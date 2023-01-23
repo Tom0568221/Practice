@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "08f7fa90fb0918e52b45b6ecca4dac480c0ae6cdea31612b7a832f6a9466ff8b"
+build_start_time: [1674516495, 762913942]
+build_end_time: [1674516495, 916191101]
+inputs:
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxRelay/BehaviorRelay.swift": [1671107710, 606003284]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxRelay/Observable+Bind.swift": [1671107710, 606315612]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxRelay/PublishRelay.swift": [1671107710, 606449604]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxRelay/ReplayRelay.swift": [1671107710, 606585979]
+  "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxRelay/Utils.swift": [1671107710, 606729030]

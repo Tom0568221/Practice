@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "29ac14aa9eca06ba7dae8569a875c9c6b927e9eec638733dbb1c0229ad9f5ae3"
+build_start_time: [1674516504, 368206024]
+build_end_time: [1674516507, 905110836]
+inputs:
+  "/Users/ikegamimichiko/Desktop/mjm/mjm/AppDelegate.swift": [1668965947, 309870004]
+  "/Users/ikegamimichiko/Desktop/mjm/mjm/Extensions/UIView-Extension.swift": [1669245794, 193714857]
+  "/Users/ikegamimichiko/Desktop/mjm/mjm/Extensions/UIimage-Extension.swift": [1668970233, 483664989]
+  "/Users/ikegamimichiko/Desktop/mjm/mjm/SceneDelegate.swift": [1668964406, 892899513]
+  "/Users/ikegamimichiko/Desktop/mjm/mjm/ViewControllers/HomeViewController.swift": [1669246819, 522223472]
+  "/Users/ikegamimichiko/Desktop/mjm/mjm/Views/BottomControlView.swift": [1669245993, 417065858]
+  "/Users/ikegamimichiko/Desktop/mjm/mjm/Views/TopControlView.swift": [1669246955, 254757404]
+  "/Users/ikegamimichiko/Desktop/mjm/mjm/Views/cardView.swift": [1674516436, 116981744]

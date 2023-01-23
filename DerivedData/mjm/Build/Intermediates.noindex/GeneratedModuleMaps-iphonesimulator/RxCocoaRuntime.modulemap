@@ -1,0 +1,4 @@
+module RxCocoaRuntime {
+umbrella header "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/SourcePackages/checkouts/RxSwift/Sources/RxCocoaRuntime/include/RxCocoaRuntime.h"
+export *
+}

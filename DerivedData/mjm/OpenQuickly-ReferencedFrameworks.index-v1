@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Differentiator</string>
+	<string>Darwin</string>
+	<string>Cocoa</string>
+	<string>CoreLocation</string>
+	<string>objc</string>
+	<string>RxBlocking</string>
+	<string>CoreData</string>
+	<string>RxDataSources</string>
+	<string>CoreFoundation</string>
+	<string>PlaygroundSupport</string>
+	<string>RxCocoa</string>
+	<string>RxSwift</string>
+	<string>mjm</string>
+	<string>RxCocoaRuntime</string>
+	<string>Glibc</string>
+	<string>doesn</string>
+	<string>libkern</string>
+	<string>WebKit</string>
+	<string>FoundationNetworking</string>
+	<string>RxTest</string>
+	<string>RxExample</string>
+	<string>Dispatch</string>
+	<string>XCTest</string>
+	<string>Foundation</string>
+	<string>PackageDescription</string>
+	<string>AppKit</string>
+	<string>RxRelay</string>
+	<string>Swift</string>
+	<string>SystemConfiguration</string>
+	<string>CoreGraphics</string>
+	<string>UIKit</string>
+</array>
+</plist>

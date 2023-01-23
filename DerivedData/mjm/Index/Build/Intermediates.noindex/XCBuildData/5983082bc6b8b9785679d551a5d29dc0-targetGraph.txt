@@ -1,0 +1,30 @@
+Target dependency graph (11 targets)
+RxSwift in RxSwift, no dependencies
+RxBlocking in RxSwift, depends on:
+RxSwift in RxSwift (explicit)
+RxTest in RxSwift, depends on:
+RxSwift in RxSwift (explicit)
+RxBlocking in RxSwift, depends on:
+RxBlocking in RxSwift (explicit)
+RxSwift in RxSwift (explicit)
+RxRelay in RxSwift, depends on:
+RxSwift in RxSwift (explicit)
+RxCocoaRuntime in RxSwift, depends on:
+RxSwift in RxSwift (explicit)
+RxCocoa in RxSwift, depends on:
+RxSwift in RxSwift (explicit)
+RxRelay in RxSwift (explicit)
+RxCocoaRuntime in RxSwift (explicit)
+RxCocoa in RxSwift, depends on:
+RxCocoa in RxSwift (explicit)
+RxSwift in RxSwift (explicit)
+RxRelay in RxSwift (explicit)
+RxCocoaRuntime in RxSwift (explicit)
+RxRelay in RxSwift, depends on:
+RxRelay in RxSwift (explicit)
+RxSwift in RxSwift (explicit)
+RxSwift in RxSwift, depends on:
+RxSwift in RxSwift (explicit)
+RxTest in RxSwift, depends on:
+RxTest in RxSwift (explicit)
+RxSwift in RxSwift (explicit)

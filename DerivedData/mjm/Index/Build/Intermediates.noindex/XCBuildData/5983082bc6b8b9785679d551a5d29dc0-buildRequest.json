@@ -1,0 +1,77 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "PACKAGE-TARGET:RxBlocking"
+    },
+    {
+      "guid" : "PACKAGE-TARGET:RxTest"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:RxBlocking"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:RxCocoa"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:RxRelay"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:RxSwift"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:RxTest"
+    }
+  ],
+  "containerPath" : "/Users/ikegamimichiko/Desktop/mjm/mjm.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/Index/Build/Products",
+      "derivedDataPath" : "/Users/ikegamimichiko/Desktop/mjm/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/ikegamimichiko/Desktop/mjm/DerivedData/mjm/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
